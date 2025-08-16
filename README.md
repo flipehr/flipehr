@@ -51,7 +51,7 @@ Este segundo curso de programación se enfocó en aprender sobre bibliotecas, en
 
 
 # 💫 About Me:
-
+I am a student of Applied Mathematics, currently in my second semester, successfully completing programming projects simultaneously. A decisive leader with a motivated and results-oriented approach. Develops effective programming solutions.
 - ⭐ Github Star ⭐ 
 - 📗 Estudiante Matematica Aplicada [UNIMAYOR](https://www.universidadmayor.edu.co)
 - 🧑‍🏫 Certificado por [IBM](https://www.ibm.com/account/co/es)
